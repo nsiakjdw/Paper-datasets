@@ -8,7 +8,7 @@ Improving hot region prediction by analyzing different machine learning algorith
 **The complete data used or analyzed in the current research can contact me if reasonable requirements.**
 
 
--Additional <br>  
+-Additional <br>
   --Additional file 1.docx result of MRMR Algorithm rank <br>
   --Additional file 2.docx result of hot regions prediction <br>
 -data <br>
